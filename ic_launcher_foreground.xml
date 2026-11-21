@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Music Note + Play Accent -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M44,30 L76,24 L76,66 C76,72.6 70.6,78 64,78 C57.4,78 52,72.6 52,66 C52,59.4 57.4,54 64,54 C66.2,54 68.3,54.6 70,55.7 L70,35 L50,38.8 L50,72 C50,78.6 44.6,84 38,84 C31.4,84 26,78.6 26,72 C26,65.4 31.4,60 38,60 C40.2,60 42.3,60.6 44,61.7 Z" />
+</vector>
